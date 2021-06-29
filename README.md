@@ -1,5 +1,5 @@
 # vaccSearch
-A vaccine slot search application using  COWIN public APIs
+A vaccine slot search application using  COWIN public APIs  [![Netlify Status](https://api.netlify.com/api/v1/badges/dd006788-d7ba-4543-b9fd-bec624ca618c/deploy-status)](https://app.netlify.com/sites/vaccsearch/deploys)
 
 # Getting Started with Create React App
 
